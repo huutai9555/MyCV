@@ -32,7 +32,7 @@ export default function Project({ }: Props) {
                 return <Project4 />
             }
             default: {
-                return ''
+                return <></>
             }
         }
     }
