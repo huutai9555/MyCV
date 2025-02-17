@@ -71,7 +71,7 @@ export default function Project4({}: Props) {
           </div>
         </div>
         <p className="text text-grey-custom text-xl">
-          This is all features i did during worked in WMS project. Thanks for
+          This is all features i did during worked in eMover project. Thanks for
           reading and hope you to like it. Looking forward to hearing from you -
           Nguyen Huu Tai.
         </p>
