@@ -20,7 +20,7 @@ export default function Project2({}: Props) {
   };
   return (
     <div className="bg-navy h-screen overflow-y-scroll">
-      <div className="container mx-auto">
+      <div className="container mx-auto !p-5 mx:px-[50px]">
         <h1 className="font-semibold text-4xl text-center text-grey-custom mb-4">
           Warehouse Management System Project
         </h1>

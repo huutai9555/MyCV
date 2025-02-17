@@ -7,7 +7,7 @@
 City, Viet Nam
 - **Phone**: +84866096165
 - **Email**: tainguyen2015070221@gmail.com
-- **Website**: https://my-cv-neon-one.vercel.app
+- **Website**: https://huutai-my-cv.vercel.app/
 - **Github**: https://github.com/huutai955
 - **Github**: https://github.com/huutai9555
 - **Facebook**: https://www.facebook.com/tainguyen201523
